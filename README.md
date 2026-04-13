@@ -21,7 +21,7 @@
 
 - 📫 How to reach me: 
   -----
-  Open an issue on a repo or '@' mention me in a discussion thread.
+  Open an issue [here!](https://github.com/SamEureka/SamEureka/issues/new/choose)
 
 <!--
 **SamEureka/SamEureka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
